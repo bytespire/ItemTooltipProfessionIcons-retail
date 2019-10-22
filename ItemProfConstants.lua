@@ -153,6 +153,7 @@ ItemProfConstants.ITEM_PROF_FLAGS = {
 
 [ 163203 ] = ENG + VENDOR,
 [ 163569 ] = ENG + VENDOR,
+[ 163782 ] = COOK,
 
 [ 165703 ] = ALC + BS + ENC + ENG + LW + TAIL + INS + JC,		-- breath of bwonsamdi
 [ 165948 ] = ALC + BS + ENC + ENG + LW + TAIL + INS + JC,		-- tidalcore
