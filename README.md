@@ -7,8 +7,8 @@ Item tooltips are modified to display icons of the professions that can use the 
 
 ## Progress:
 The primary goal of this port is to provide coverage of each expansion's profession items
-- BFA (8.2.5): complete
-- Legion: incomplete
+- BFA: complete (8.2.5)
+- Legion: complete
 - WOD: incomplete
 - MOP: incomplete
 - Cata: incomplete
