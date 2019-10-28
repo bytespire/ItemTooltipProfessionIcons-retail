@@ -46,13 +46,160 @@ ItemProfConstants.PROF_TEXTURES = {
 ItemProfConstants.ITEM_PROF_FLAGS = {
 
 [ 3371 ] = ALC + INS + VENDOR,
+[ 9312 ] = ENG + VENDOR,
+[ 9313 ] = ENG + VENDOR,
+[ 9318 ] = ENG + VENDOR,
 [ 11291 ] = ENC + LW + VENDOR,
+[ 14048 ] = TAIL,
 [ 18567 ] = BS + VENDOR,
+[ 21840 ] = TAIL,
 [ 38682 ] = ENC + VENDOR,
 [ 39354 ] = INS + VENDOR,
 [ 52188 ] = JC + VENDOR,
 
 -- [ 113509 ] = INS,
+
+
+[ 111245 ] = ENC,
+
+[ 120945 ] = ENC,
+
+-- ##### Legion items #####
+
+[ 123918 ] = BS + ENG + LW + TAIL + JC,
+[ 123919 ] = BS + ENG + JC,
+
+[ 124101 ] = ALC + COOK + INS,
+[ 124102 ] = ALC + COOK + INS,
+[ 124103 ] = ALC + COOK + INS,
+[ 124104 ] = ALC + COOK + INS,
+[ 124105 ] = ALC + COOK + INS,
+[ 124106 ] = ALC + ENC + ENG + TAIL + INS + JC,
+[ 124107 ] = COOK,
+[ 124108 ] = COOK,
+[ 124109 ] = COOK + ENG,
+[ 124110 ] = COOK,
+[ 124111 ] = COOK,
+[ 124112 ] = COOK + ENG,
+[ 124113 ] = BS + ENG + LW + TAIL,
+[ 124115 ] = BS + ENG + LW + TAIL,
+[ 124116 ] = BS + ENC + ENG + LW,
+[ 124117 ] = COOK,
+[ 124118 ] = COOK,
+[ 124119 ] = COOK + ENG,
+[ 124120 ] = COOK,
+[ 124121 ] = COOK + ENG,
+[ 124124 ] = ALC + BS + ENC + ENG + LW + TAIL + INS + JC,		-- Blood of Sargeras
+[ 124436 ] = BS + VENDOR,
+[ 124437 ] = BS + ENG + LW + TAIL,
+[ 124438 ] = BS + LW + TAIL,
+[ 124439 ] = BS + LW + TAIL,
+[ 124440 ] = BS + ENC + LW + TAIL,
+[ 124441 ] = ENC,
+[ 124442 ] = ENC,
+[ 124444 ] = ALC + BS + ENC + ENG + JC,		-- Infernal Brimstone
+[ 124461 ] = BS + ENG,
+
+[ 127004 ] = ENG + TAIL,
+[ 127037 ] = TAIL + VENDOR,
+[ 127681 ] = TAIL + VENDOR,
+[ 127834 ] = ALC,
+[ 127835 ] = ALC,
+[ 127836 ] = ALC,
+[ 127842 ] = ALC,
+[ 127847 ] = ALC,
+[ 127848 ] = ALC,
+[ 127849 ] = ALC,
+[ 127850 ] = ALC,
+
+	-- Legion alc transmutes missing
+
+[ 128304 ] = ALC + COOK + INS,
+
+[ 129032 ] = INS,
+[ 129034 ] = INS,
+[ 129100 ] = COOK + JC,
+
+[ 130172 ] = JC,
+[ 130173 ] = JC,
+[ 130174 ] = JC,
+[ 130175 ] = JC,
+[ 130176 ] = JC,
+[ 130177 ] = JC,
+[ 130178 ] = ENG + JC,
+[ 130179 ] = BS + JC,
+[ 130180 ] = LW + JC,
+[ 130181 ] = JC,
+[ 130182 ] = LW + JC,
+[ 130183 ] = TAIL + JC,
+[ 130245 ] = JC,
+
+[ 132514 ] = ENG,
+[ 132515 ] = ENG,
+[ 132518 ] = ENG,
+[ 132523 ] = ENG,
+
+[ 133557 ] = COOK,
+[ 133561 ] = COOK,
+[ 133562 ] = COOK,
+[ 133563 ] = COOK,
+[ 133564 ] = COOK,
+[ 133565 ] = COOK,
+[ 133566 ] = COOK,
+[ 133567 ] = COOK,
+[ 133568 ] = COOK,
+[ 133569 ] = COOK,
+[ 133588 ] = COOK + VENDOR,
+[ 133589 ] = COOK + VENDOR,
+[ 133590 ] = COOK + VENDOR,
+[ 133591 ] = COOK + VENDOR,
+[ 133592 ] = COOK + VENDOR,
+[ 133593 ] = COOK + VENDOR,
+[ 133607 ] = COOK,
+[ 133680 ] = COOK,
+
+[ 136629 ] = ENG + VENDOR,
+[ 136630 ] = ENG + VENDOR,
+[ 136631 ] = ENG + VENDOR,
+[ 136632 ] = ENG + VENDOR,
+[ 136633 ] = ENG + VENDOR,
+[ 136636 ] = ENG + VENDOR,
+[ 136637 ] = ENG + VENDOR,
+[ 136638 ] = ENG + VENDOR,
+
+[ 140781 ] = ENG,
+[ 140782 ] = ENG,
+[ 140783 ] = ENG,
+[ 140784 ] = ENG,
+[ 140785 ] = ENG,
+
+[ 142336 ] = COOK,
+
+[ 144329 ] = ENG,
+
+[ 146659 ] = BS + LW + TAIL + VENDOR,	-- Nethershard Essence
+[ 146710 ] = TAIL,
+[ 146711 ] = TAIL,
+[ 146712 ] = LW,
+[ 146713 ] = LW,
+[ 146714 ] = BS,
+[ 146757 ] = COOK,
+
+[ 151564 ] = BS + ENG + JC,
+[ 151565 ] = ALC + INS,
+[ 151566 ] = LW,
+[ 151567 ] = LW + TAIL,
+[ 151568 ] = ALC + BS + ENG + LW + TAIL + JC,
+[ 151579 ] = JC,
+[ 151718 ] = JC,
+[ 151719 ] = JC,
+[ 151720 ] = JC,
+[ 151721 ] = JC,
+[ 151722 ] = JC,
+[ 151931 ] = JC,
+[ 151932 ] = JC,
+[ 151933 ] = JC,
+
 
 
 -- ##### BFA items #####
