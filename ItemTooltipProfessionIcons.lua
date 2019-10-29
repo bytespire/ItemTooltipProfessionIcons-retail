@@ -62,7 +62,11 @@ local function ModifyItemTooltip( tt )
 	
 	if itemID == nil then
 		-- Extract ID from link: GetItemInfoInstant unreliable with AH items (uncached on client?)
-		itemID = tonumber( string.match( itemLink, ":?(%d+):" ) )
+		itemID = tonumber( string.match( itemLink, "item:?(%d+):" ) )
+		if itemID == nil then
+			-- The item link doesn't contain the item ID field
+			return
+		end
 	end
 	
 	-- Reuse the texture state if the item hasn't changed
