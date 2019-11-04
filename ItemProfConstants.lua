@@ -57,12 +57,110 @@ ItemProfConstants.ITEM_PROF_FLAGS = {
 [ 39354 ] = INS + VENDOR,
 [ 52188 ] = JC + VENDOR,
 
+[ 77468 ] = ENG,
+[ 79254 ] = INS,
+
 -- [ 113509 ] = INS,
 
 
-[ 111245 ] = ENC,
 
-[ 120945 ] = ENC,
+-- ##### WoD items #####
+
+[ 108257 ] = BS,
+[ 108996 ] = ALC,
+
+[ 109118 ] = ALC + BS + ENG + INS + JC,
+[ 109119 ] = ALC + BS + ENG + LW + TAIL + JC,
+[ 109123 ] = ALC,
+[ 109124 ] = ALC + COOK + INS + JC,
+[ 109125 ] = ALC + COOK + INS + JC,
+[ 109126 ] = ALC + COOK + LW + TAIL + INS + JC,
+[ 109127 ] = ALC + COOK + INS + JC,
+[ 109128 ] = ALC + COOK + ENG + INS,
+[ 109129 ] = ALC + COOK + INS + JC,
+[ 109131 ] = COOK,
+[ 109132 ] = COOK,
+[ 109133 ] = COOK,
+[ 109134 ] = COOK,
+[ 109135 ] = COOK,
+[ 109136 ] = COOK,
+[ 109137 ] = ALC + COOK,
+[ 109138 ] = ALC + COOK,
+[ 109139 ] = ALC + COOK,
+[ 109140 ] = ALC + COOK,
+[ 109141 ] = ALC + COOK,
+[ 109142 ] = COOK,
+[ 109143 ] = ALC + COOK,
+[ 109144 ] = ALC + COOK,
+[ 109145 ] = ALC,
+[ 109147 ] = ALC,
+[ 109148 ] = ALC,
+[ 109152 ] = ALC,
+[ 109217 ] = LW + TAIL,
+[ 109218 ] = LW + TAIL,
+[ 109219 ] = LW + TAIL,
+[ 109222 ] = ALC,
+[ 109223 ] = ALC,
+[ 109693 ] = ENC,
+
+[ 110609 ] = BS + LW + TAIL,
+[ 110611 ] = LW,
+
+[ 111245 ] = ENC,
+[ 111366 ] = ENG,
+[ 111431 ] = COOK,
+[ 111433 ] = COOK,
+[ 111434 ] = COOK,
+[ 111436 ] = COOK,
+[ 111437 ] = COOK,
+[ 111438 ] = COOK,
+[ 111439 ] = COOK,
+[ 111441 ] = COOK,
+[ 111442 ] = COOK,
+[ 111444 ] = COOK,
+[ 111445 ] = COOK,
+[ 111446 ] = COOK,
+[ 111556 ] = TAIL,
+[ 111557 ] = BS + ENG + LW + TAIL,
+
+[ 112377 ] = INS,
+
+[ 113111 ] = INS,
+[ 113261 ] = ALC + BS + ENC + ENG + INS + JC,
+[ 113262 ] = ALC + ENC + ENG + LW + TAIL + INS + JC,
+[ 113263 ] = ALC + BS + ENC + ENG + LW + TAIL + JC,
+[ 113264 ] = ALC + BS + ENC + LW + TAIL + INS + JC,
+[ 113588 ] = ENC + ENG,
+
+[ 114931 ] = INS,
+
+[ 115524 ] = JC,
+[ 115803 ] = JC,
+[ 115804 ] = JC,
+[ 115805 ] = JC,
+[ 115807 ] = JC,
+[ 115808 ] = JC,
+[ 115809 ] = JC,
+[ 115811 ] = JC,
+[ 115812 ] = JC,
+[ 115814 ] = JC,
+[ 115815 ] = JC,
+
+[ 118472 ] = ALC + BS + ENC + ENG + LW + TAIL + INS + JC,
+
+[ 120945 ] = ALC + BS + ENG + LW + TAIL + INS + JC,
+
+[ 122601 ] = ALC,
+[ 122602 ] = ALC,
+[ 122603 ] = ALC,
+
+[ 127759 ] = ALC + BS + ENG + LW + TAIL + INS + JC,
+
+[ 128499 ] = COOK,
+[ 128500 ] = COOK,
+
+
+
 
 -- ##### Legion items #####
 
