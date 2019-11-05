@@ -45,6 +45,12 @@ ItemProfConstants.PROF_TEXTURES = {
 -- Mapping the item IDs to texture indices
 ItemProfConstants.ITEM_PROF_FLAGS = {
 
+[ 159 ] = COOK + VENDOR,
+[ 2321 ] = TAIL + VENDOR,
+[ 2325 ] = TAIL + VENDOR,
+[ 2595 ] = COOK,
+[ 2596 ] = COOK,
+[ 2605 ] = TAIL + TAIL,
 [ 3371 ] = ALC + INS + VENDOR,
 [ 4470 ] = ENG + VENDOR,
 [ 4537 ] = COOK,
@@ -56,9 +62,12 @@ ItemProfConstants.ITEM_PROF_FLAGS = {
 [ 14048 ] = TAIL,
 [ 18567 ] = BS + VENDOR,
 [ 21840 ] = TAIL,
+[ 30817 ] = COOK + VENDOR,
+[ 34052 ] = TAIL,
+[ 34055 ] = TAIL,
 [ 38426 ] = LW + TAIL + VENDOR,
 [ 38682 ] = ENC + VENDOR,
-[ 39354 ] = INS + VENDOR,
+[ 39354 ] = INS + ENC + VENDOR,
 [ 39684 ] = ENG + VENDOR,
 [ 40533 ] = ENG + VENDOR,
 [ 52188 ] = JC + VENDOR,
@@ -73,6 +82,128 @@ ItemProfConstants.ITEM_PROF_FLAGS = {
 
 -- [ 113509 ] = INS,
 
+-- ##### Cata items #####
+
+[ 51950 ] = ALC + BS,
+
+[ 52078 ] = BS + ENG + LW + TAIL,
+
+[ 52177 ] = ALC + JC,
+[ 52178 ] = ALC + BS + JC,
+[ 52179 ] = ALC + ENG + JC,
+[ 52180 ] = ALC + JC,
+[ 52181 ] = ALC + ENG + JC,
+[ 52182 ] = ALC + BS + ENG + JC,
+[ 52186 ] = ALC + BS + ENG + JC,
+[ 52190 ] = BS + ENG + JC,
+[ 52191 ] = BS + ENG + JC,
+[ 52192 ] = BS + ENG + JC,
+[ 52193 ] = JC,
+[ 52194 ] = JC,
+[ 52195 ] = JC,
+[ 52196 ] = JC,
+
+[ 52303 ] = JC,
+[ 52325 ] = ALC + BS + ENC + ENG + LW + TAIL + INS + JC,
+[ 52326 ] = ALC + BS + ENC + LW + TAIL + INS + JC,
+[ 52327 ] = ALC + BS + ENC + ENG + LW + TAIL + INS + JC,
+[ 52328 ] = ALC + ENC + LW + TAIL + INS + JC,
+[ 52329 ] = ALC + BS + ENC + LW + TAIL + INS + JC,
+
+[ 52555 ] = ENC + TAIL + JC,
+
+[ 52718 ] = ENC,
+[ 52719 ] = ENC,
+[ 52721 ] = ENC,
+[ 52722 ] = ENC,
+
+[ 52976 ] = LW,
+[ 52977 ] = LW,
+[ 52979 ] = LW,
+[ 52980 ] = LW,
+[ 52982 ] = LW,
+[ 52983 ] = ALC,
+[ 52984 ] = ALC,
+[ 52985 ] = ALC,
+[ 52986 ] = ALC,
+[ 52987 ] = ALC,
+[ 52988 ] = ALC,
+
+[ 53010 ] = ENG + TAIL,
+[ 53039 ] = BS + ENG,
+[ 53062 ] = COOK,
+[ 53063 ] = COOK,
+[ 53064 ] = COOK,
+[ 53065 ] = ALC,
+[ 53066 ] = COOK,
+[ 53067 ] = COOK,
+[ 53068 ] = COOK,
+[ 53069 ] = COOK,
+[ 53070 ] = COOK,
+[ 53071 ] = COOK,
+[ 53072 ] = COOK,
+
+[ 53643 ] = TAIL,
+
+[ 54440 ] = TAIL,
+[ 54849 ] = BS + ENG,
+
+[ 56516 ] = BS + LW,
+
+[ 56850 ] = ALC,
+
+[ 58085 ] = ALC,
+[ 58086 ] = ALC,
+[ 58087 ] = ALC,
+[ 58088 ] = ALC,
+[ 58094 ] = ENC,
+
+[ 58142 ] = ALC,
+
+[ 58278 ] = COOK + VENDOR,
+
+[ 58480 ] = ALC + BS + ENG + JC,
+
+[ 52976 ] = ENG,
+
+[ 60224 ] = ENG,
+[ 60838 ] = COOK,
+
+[ 61978 ] = INS,
+[ 61979 ] = INS,
+[ 61980 ] = INS,
+[ 61981 ] = LW + INS,
+
+[ 62323 ] = INS,
+[ 62654 ] = ENG,
+[ 62778 ] = COOK + ENG,
+[ 62779 ] = COOK,
+[ 62780 ] = COOK,
+[ 62781 ] = COOK,
+[ 62782 ] = COOK,
+[ 62783 ] = COOK,
+[ 62784 ] = COOK,
+[ 62785 ] = COOK,
+[ 62786 ] = COOK,
+[ 62791 ] = COOK,
+
+[ 65365 ] = BS,
+[ 65892 ] = ALC + VENDOR,
+[ 65893 ] = ALC + VENDOR,
+
+[ 67319 ] = INS + VENDOR,
+[ 67335 ] = INS + VENDOR,
+[ 67749 ] = ENG,
+
+[ 69237 ] = BS + LW + TAIL,
+
+[ 71805 ] = JC,
+[ 71806 ] = JC,
+[ 71807 ] = JC,
+[ 71808 ] = JC,
+[ 71809 ] = JC,
+[ 71810 ] = JC,
+[ 71998 ] = BS + LW + TAIL,
 
 -- ##### Pandaria items #####
 
@@ -309,6 +440,9 @@ ItemProfConstants.ITEM_PROF_FLAGS = {
 [ 111446 ] = COOK,
 [ 111556 ] = TAIL,
 [ 111557 ] = BS + ENG + LW + TAIL,
+
+[ 112155 ] = LW,	-- cata
+[ 112156 ] = LW,	-- cata
 
 [ 112377 ] = INS,
 
