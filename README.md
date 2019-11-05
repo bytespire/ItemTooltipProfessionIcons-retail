@@ -11,8 +11,8 @@ The primary goal of this port is to provide coverage of each expansion's profess
 - Legion: complete
 - WOD: complete
 - MOP: complete
-- Cata: incomplete
-- Wrath: incomplete
+- Cata: complete
+- Wrath: complete
 - BC: incomplete
 - Vanilla: incomplete
 </br>
