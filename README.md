@@ -13,7 +13,7 @@ The primary goal of this port is to provide coverage of each expansion's profess
 - MOP: complete
 - Cata: complete
 - Wrath: complete
-- BC: incomplete
+- BC: complete
 - Vanilla: incomplete
 </br>
 
