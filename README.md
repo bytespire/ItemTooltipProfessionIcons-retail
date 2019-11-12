@@ -14,7 +14,7 @@ The primary goal of this port is to provide coverage of each expansion's profess
 - Cata: complete
 - Wrath: complete
 - BC: complete
-- Vanilla: incomplete
+- Vanilla: complete
 </br>
 
 ## Download:
