@@ -1,5 +1,5 @@
 ## Interface: 80205
-## Version: 0.9.4
+## Version: 1.0.0
 ## Title: ItemTooltipProfessionIcons
 ## Notes: Displays which professions may use the item via the item's tooltip
 ## Author: Bytespire
