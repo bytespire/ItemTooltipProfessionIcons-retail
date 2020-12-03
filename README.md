@@ -7,7 +7,7 @@ Item tooltips are modified to display icons of the professions that can use the 
 
 ## Progress:
 The primary goal of this port is to provide coverage of each expansion's profession items
-- Shadowlands: complete (9.0.1)
+- Shadowlands: complete (9.0.2)
 - BFA: complete (8.2.5)
 - Legion: complete
 - WOD: complete
